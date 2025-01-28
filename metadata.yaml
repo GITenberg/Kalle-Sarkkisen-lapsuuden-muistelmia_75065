@@ -8,12 +8,17 @@ contributor:
     gutenberg_agent_id: '5712'
     url: http://www.gutenberg.org/2009/agents/5712
     wikipedia: https://fi.wikipedia.org/wiki/Juho_Reijonen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Berg, C. O.
     gutenberg_agent_id: '57805'
     url: http://www.gutenberg.org/2009/agents/57805
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75065#Kalle-Sarkkisen-lapsuuden-muistelmia
 gutenberg_issued: '2025-01-08'
 gutenberg_type: Text
 identifiers:
